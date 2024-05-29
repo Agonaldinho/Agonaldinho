@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triple C - Complete Core Conditioning</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Triple C - Complete Core Conditioning</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#workout">7-Day Workout Plan</a></li>
+                <li><a href="#nutrition">Nutrition Tips</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Welcome</h2>
+        <p>Welcome to <strong>Triple C - Complete Core Conditioning</strong>, your ultimate destination for a holistic, full-body workout plan designed to help you achieve your fitness goals in just one week. Our 7-day workout plan is tailored to target all major muscle groups, ensuring a balanced and comprehensive fitness regimen. Let's embark on this journey to a stronger, healthier you!</p>
+    </section>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>At Triple C, we believe in the power of a well-rounded fitness routine. Our mission is to provide you with an effective and efficient workout plan that you can follow, regardless of your fitness level. Whether you're a beginner or an experienced gym-goer, our 7-day workout plan will challenge you and help you build strength, endurance, and flexibility.</p>
+    </section>
+    
+    <section id="workout">
+        <h2>7-Day Workout Plan</h2>
+        <article>
+            <h3>Day 1: Upper Body Strength</h3>
+            <p><strong>Warm-Up:</strong></p>
+            <ul>
+                <li>5 minutes of light cardio (jogging or jumping jacks)</li>
+                <li>Dynamic stretches</li>
+            </ul>
+            <p><strong>Workout:</strong></p>
+            <ul>
+                <li>Bench Press - 3 sets of 10 reps</li>
+                <li>Dumbbell Rows - 3 sets of 10 reps per arm</li>
+                <li>Shoulder Press - 3 sets of 12 reps</li>
+                <li>Bicep Curls - 3 sets of 15 reps</li>
+                <li>Tricep Dips - 3 sets of 15 reps</li>
+            </ul>
+            <p><strong>Cool-Down:</strong></p>
+            <ul>
+                <li>Stretching exercises focusing on the upper body</li>
+            </ul>
+        </article>
+        
+        <article>
+            <h3>Day 2: Lower Body Strength</h3>
+            <p><strong>Warm-Up:</strong></p>
+            <ul>
+                <li>5 minutes of light cardio (cycling or brisk walking)</li>
+                <li>Dynamic stretches</li>
+            </ul>
+            <p><strong>Workout:</strong></p>
+            <ul>
+                <li>Squats - 3 sets of 12 reps</li>
+                <li>Deadlifts - 3 sets of 10 reps</li>
+                <li>Lunges - 3 sets of 10 reps per leg</li>
+                <li>Leg Press - 3 sets of 15 reps</li>
+                <li>Calf Raises - 3 sets of 20 reps</li>
+            </ul>
+            <p><strong>Cool-Down:</strong></p>
+            <ul>
+                <li>Stretching exercises focusing on the lower body</li>
+            </ul>
+        </article>
+        
+        <article>
+            <h3>Day 3: Core and Abs</h3>
+            <p><strong>Warm-Up:</strong></p>
+            <ul>
+                <li>5 minutes of light cardio (high knees or jumping jacks)</li>
+                <li>Dynamic stretches</li>
+            </ul>
+            <p><strong>Workout:</strong></p>
+            <ul>
+                <li>Plank - 3 sets of 1-minute hold</li>
+                <li>Russian Twists - 3 sets of 20 reps</li>
+                <li>Bicycle Crunches - 3 sets of 15 reps per side</li>
+                <li>Leg Raises - 3 sets of 15 reps</li>
+                <li>Mountain Climbers - 3 sets of 20 reps</li>
+            </ul>
+            <p><strong>Cool-Down:</strong></p>
+            <ul>
+                <li>Stretching exercises focusing on the core</li>
+            </ul>
+        </article>
+        
+        <article>
+            <h3>Day 4: Active Recovery</h3>
+            <p><strong>Activities:</strong></p>
+            <ul>
+                <li>Yoga or Pilates session</li>
+                <li>Light cardio (walking, swimming)</li>
+                <li>Stretching and foam rolling</li>
+            </ul>
+        </article>
+        
+        <article>
+            <h3>Day 5: Full Body Circuit</h3>
+            <p><strong>Warm-Up:</strong></p>
+            <ul>
+                <li>5 minutes of light cardio (jump rope or rowing)</li>
+                <li>Dynamic stretches</li>
+            </ul>
+            <p><strong>Workout:</strong></p>
+            <ul>
+                <li>Burpees - 3 sets of 15 reps</li>
+                <li>Kettlebell Swings - 3 sets of 20 reps</li>
+                <li>Push-Ups - 3 sets of 15 reps</li>
+                <li>Bodyweight Squats - 3 sets of 20 reps</li>
+                <li>Plank to Push-Up - 3 sets of 10 reps</li>
+            </ul>
+            <p><strong>Cool-Down:</strong></p>
+            <ul>
+                <li>Stretching exercises focusing on the entire body</li>
+            </ul>
+        </article>
+        
+        <article>
+            <h3>Day 6: Cardio and Core</h3>
+            <p><strong>Warm-Up:</strong></p>
+            <ul>
+                <li>5 minutes of light cardio (elliptical or stair climber)</li>
+                <li>Dynamic stretches</li>
+            </ul>
+            <p><strong>Workout:</strong></p>
+            <ul>
+                <li>Treadmill Intervals - 20 minutes (1 minute sprint, 1 minute walk)</li>
+                <li>Rowing Machine - 15 minutes</li>
+                <li><strong>Core Circuit:</strong> (repeat 3 times)</li>
+                <ul>
+                    <li>Crunches - 20 reps</li>
+                    <li>Heel Touches - 20 reps</li>
+                    <li>Side Plank - 1 minute per side</li>
+                </ul>
+            </ul>
+            <p><strong>Cool-Down:</strong></p>
+            <ul>
+                <li>Stretching exercises focusing on the core and lower body</li>
+            </ul>
+        </article>
+        
+        <article>
+            <h3>Day 7: Flexibility and Mobility</h3>
+            <p><strong>Activities:</strong></p>
+            <ul>
+                <li>Full-body stretching routine</li>
+                <li>Yoga session</li>
+                <li>Foam rolling and myofascial release</li>
+            </ul>
+        </article>
+    </section>
+    
+    <section id="nutrition">
+        <h2>Nutrition Tips</h2>
+        <p>To maximize your results with the Triple C workout plan, it's crucial to pair your exercises with a balanced diet. Here are some nutrition tips:</p>
+        <ul>
+            <li>Eat a mix of lean proteins, complex carbohydrates, and healthy fats.</li>
+            <li>Stay hydrated by drinking plenty of water throughout the day.</li>
+            <li>Incorporate plenty of fruits and vegetables into your meals.</li>
+            <li>Avoid processed foods and sugary drinks.</li>
+            <li>Consider consulting with a nutritionist for a personalized meal plan.</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or need additional support? Reach out to us!</p>
+        <ul>
+            <li><strong>Email:</strong> support@triplecfitness.com</li>
+            <li><strong>Phone:</strong> (123) 456-7890</li>
+            <li><strong>Address:</strong> 123 Fitness Lane, Wellness City, Fitland</li>
+        </ul>
+        <p>Follow us on social media for updates, tips, and motivation:</p>
+        <ul>
+            <
